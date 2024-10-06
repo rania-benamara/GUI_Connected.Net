@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2337036\\Downloads\\Tp2Finale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF476D3-A31F-4592-9CDE-B514F1853B71}|Tp2\\Tp2.csproj|C:\\Users\\2337036\\Downloads\\Tp2Finale\\tp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF476D3-A31F-4592-9CDE-B514F1853B71}|Tp2\\Tp2.csproj|solutionrelative:tp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF476D3-A31F-4592-9CDE-B514F1853B71}|Tp2\\Tp2.csproj|C:\\Users\\2337036\\Downloads\\Tp2Finale\\tp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEF476D3-A31F-4592-9CDE-B514F1853B71}|Tp2\\Tp2.csproj|solutionrelative:tp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF476D3-A31F-4592-9CDE-B514F1853B71}|Tp2\\Tp2.csproj|C:\\Users\\2337036\\Downloads\\Tp2Finale\\tp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF476D3-A31F-4592-9CDE-B514F1853B71}|Tp2\\Tp2.csproj|solutionrelative:tp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF476D3-A31F-4592-9CDE-B514F1853B71}|Tp2\\Tp2.csproj|C:\\Users\\2337036\\Downloads\\Tp2Finale\\tp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEF476D3-A31F-4592-9CDE-B514F1853B71}|Tp2\\Tp2.csproj|solutionrelative:tp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF476D3-A31F-4592-9CDE-B514F1853B71}|Tp2\\Tp2.csproj|c:\\users\\2337036\\downloads\\tp2finale\\tp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF476D3-A31F-4592-9CDE-B514F1853B71}|Tp2\\Tp2.csproj|solutionrelative:tp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF476D3-A31F-4592-9CDE-B514F1853B71}|Tp2\\Tp2.csproj|C:\\Users\\2337036\\Downloads\\Tp2Finale\\tp2\\iarticleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF476D3-A31F-4592-9CDE-B514F1853B71}|Tp2\\Tp2.csproj|solutionrelative:tp2\\iarticleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF476D3-A31F-4592-9CDE-B514F1853B71}|Tp2\\Tp2.csproj|c:\\users\\2337036\\downloads\\tp2finale\\tp2\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF476D3-A31F-4592-9CDE-B514F1853B71}|Tp2\\Tp2.csproj|solutionrelative:tp2\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF476D3-A31F-4592-9CDE-B514F1853B71}|Tp2\\Tp2.csproj|C:\\Users\\2337036\\Downloads\\Tp2Finale\\tp2\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF476D3-A31F-4592-9CDE-B514F1853B71}|Tp2\\Tp2.csproj|solutionrelative:tp2\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2337036\\Downloads\\Tp2Finale\\Tp2\\Program.cs",
+              "RelativeDocumentMoniker": "Tp2\\Program.cs",
+              "ToolTip": "C:\\Users\\2337036\\Downloads\\Tp2Finale\\Tp2\\Program.cs",
+              "RelativeToolTip": "Tp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:53:00.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\2337036\\Downloads\\Tp2Finale\\Tp2\\Form1.cs",
+              "RelativeDocumentMoniker": "Tp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\2337036\\Downloads\\Tp2Finale\\Tp2\\Form1.cs",
+              "RelativeToolTip": "Tp2\\Form1.cs",
+              "ViewState": "AQIAAOAAAAAAAAAAAAAowPcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:56:32.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\2337036\\Downloads\\Tp2Finale\\Tp2\\Form2.cs",
+              "RelativeDocumentMoniker": "Tp2\\Form2.cs",
+              "ToolTip": "C:\\Users\\2337036\\Downloads\\Tp2Finale\\Tp2\\Form2.cs",
+              "RelativeToolTip": "Tp2\\Form2.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAAAKwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:59:58.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2337036\\Downloads\\Tp2Finale\\Tp2\\Form2.cs",
+              "RelativeDocumentMoniker": "Tp2\\Form2.cs",
+              "ToolTip": "C:\\Users\\2337036\\Downloads\\Tp2Finale\\Tp2\\Form2.cs [Design]",
+              "RelativeToolTip": "Tp2\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:57:27.84Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2337036\\Downloads\\Tp2Finale\\Tp2\\Form1.cs",
+              "RelativeDocumentMoniker": "Tp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\2337036\\Downloads\\Tp2Finale\\Tp2\\Form1.cs [Design]",
+              "RelativeToolTip": "Tp2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:14:58.009Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\2337036\\Downloads\\Tp2Finale\\Tp2\\ArticleController.cs",
+              "RelativeDocumentMoniker": "Tp2\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\2337036\\Downloads\\Tp2Finale\\Tp2\\ArticleController.cs",
+              "RelativeToolTip": "Tp2\\ArticleController.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAuwKgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:31:16.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IArticleView.cs",
+              "DocumentMoniker": "C:\\Users\\2337036\\Downloads\\Tp2Finale\\Tp2\\IArticleView.cs",
+              "RelativeDocumentMoniker": "Tp2\\IArticleView.cs",
+              "ToolTip": "C:\\Users\\2337036\\Downloads\\Tp2Finale\\Tp2\\IArticleView.cs",
+              "RelativeToolTip": "Tp2\\IArticleView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:51:54.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\2337036\\Downloads\\Tp2Finale\\Tp2\\Article.cs",
+              "RelativeDocumentMoniker": "Tp2\\Article.cs",
+              "ToolTip": "C:\\Users\\2337036\\Downloads\\Tp2Finale\\Tp2\\Article.cs",
+              "RelativeToolTip": "Tp2\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:29:50.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
